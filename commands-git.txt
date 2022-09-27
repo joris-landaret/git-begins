@@ -1,5 +1,2 @@
-git clone https://github.com/prenom-nom/git-begins.git
-git add commands-git.txt
-git commit -m "texte"
-git push
-git pull
+git branch add-create-branch-command
+git checkout add-create-branch-command
